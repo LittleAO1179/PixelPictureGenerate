@@ -13,7 +13,7 @@ python main.py <input> <output>
 ## 示例
 
 ```console
-python main.py input.png output.png
+python main.py input.jpg output.jpg
 ```
 
 ## 原理
